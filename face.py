@@ -1,3 +1,6 @@
+# copyright: SRIKARA
+# GNU v3 
+
 import cv2
 import os
 
